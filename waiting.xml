@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="waiting.xslt"?>
 <sayings for="waiting">
 <saying>Pumping it up</saying>
 <saying>Figuring out whose on first</saying>
@@ -224,7 +225,7 @@
 <saying>Twisting the dragons tail</saying>
 <saying>Doing something ill-advised</saying>
 <saying>Intentionally leaving something blank</saying>
-<saying>Uintentionally leaving something blank</saying>
+<saying>Unintentionally leaving something blank</saying>
 <saying>Checking my alternative facts</saying>
 <saying>Ensuring the triumph of form over function</saying>
 <saying>Being bitter at the beginning</saying>
@@ -261,7 +262,7 @@
 <saying>Look, I'm just not that into you</saying>
 <saying>Your account has been restricted because you have been bad!</saying>
 <saying>Oh no you didn't!</saying>
-<saying>Wait right hear, I'm calling the police</saying>
+<saying>Wait right here, I'm calling the police</saying>
 <saying>I am fairly sure you forgot something</saying>
 <saying>Goofus</saying>
 <saying>The cats are bidding me to obey them</saying>

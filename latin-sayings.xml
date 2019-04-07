@@ -1,0 +1,241 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="latin-sayings.xslt"?>
+<latin-sayings>
+  <saying>
+    <latin>Aut viam inveniam aut faciam</latin>
+    <author></author>
+    <english>I shall either find a way, or make one</english>
+  </saying>
+  <saying>
+    <latin>Ad astra per aspera</latin>
+    <author></author>
+    <english>To the stars through perseverance / To the stars through difficulties</english>
+  </saying>
+  <saying>
+    <latin>Audentis fortuna iuvat</latin>
+    <author>Virgil</author>
+    <english>Fortune favors the brave</english>
+  </saying>
+  <saying>
+    <latin>Si vis pacem, para bellum</latin>
+    <author>Publius Flavius Vegetius Renatus</author>
+    <english>If you seek peace, prepare for war</english>
+  </saying>
+  <saying>
+    <latin>Memento mori</latin>
+    <author></author>
+    <english>Remember your mortaility</english>
+  </saying>
+  <saying>
+    <latin>Carpe Diem</latin>
+    <author></author>
+    <english>Seize the day</english>
+  </saying>
+  <saying>
+    <latin>Veni vidi vici</latin>
+    <author></author>
+    <english>I came, I saw, I conquered</english>
+  </saying>
+  <saying>
+    <latin>Illegitimi non carborundum</latin>
+    <author></author>
+    <english>Don't let the bastards get you down</english>
+  </saying>
+  <saying>
+    <latin>Veritas nunquam perit</latin>
+    <author>Seneca</author>
+    <english>The truth never perishes</english>
+  </saying>
+  <saying>
+    <latin>Amor vincit omnia</latin>
+    <author></author>
+    <english>Love conquers all</english>
+  </saying>
+  <saying>
+    <latin>Nulla tenaci invia est via</latin>
+    <author></author>
+    <english>For the tenacious, no road is impassable</english>
+  </saying>
+  <saying>
+    <latin>Atrox melior dulcissima veritas mendaciis</latin>
+    <author></author>
+    <english>The bitter truth is better then the sweetest lies</english>
+  </saying>
+  <saying>
+    <latin>Post Tenebras Lux</latin>
+    <author></author>
+    <english>After darkness (I hope for) light</english>
+  </saying>
+  <saying>
+    <latin>alea jacta est</latin>
+    <author></author>
+    <english>The die is cast</english>
+  </saying>
+  <saying>
+    <latin>e pluribus unum</latin>
+    <author></author>
+    <english>one out of many</english>
+  </saying>
+  <saying>
+    <latin>errare humanum est</latin>
+    <author></author>
+    <english>To err is human</english>
+  </saying>
+  <saying>
+    <latin>ex nihlio nihil fit</latin>
+    <author></author>
+    <english>From nothing comes nothing</english>
+  </saying>
+  <saying>
+    <latin>dum spiro spero</latin>
+    <author></author>
+    <english>While I breath, I hope</english>
+  </saying>
+  <saying>
+    <latin>exigo a me non ut optimus par sim sed ut malis melior</latin>
+    <author></author>
+    <english>I require myself not to be equal to the best, but to be better then the bad</english>
+  </saying>
+  <saying>
+    <latin>experiential docet</latin>
+    <author></author>
+    <english>Experience teaches</english>
+  </saying>
+  <saying>
+    <latin>in libras libertas</latin>
+    <author></author>
+    <english>In books, freedom</english>
+  </saying>
+  <saying>
+    <latin>qui dedit benifcium taceat; narrat qui accepit</latin>
+    <author></author>
+    <english>Let hime who has done a good deed be silent; let him who has recieved it tell it</english>
+  </saying>
+  <saying>
+    <latin>sedit qui timuit ne non succederet</latin>
+    <author></author>
+    <english>He who feared he would not succeed sat still</english>
+  </saying>
+  <saying>
+    <latin>In omnia paratus</latin>
+    <author></author>
+    <english>Ready for anything</english>
+  </saying>
+  <saying>
+    <latin>Non desistas non exieris</latin>
+    <author>Galaxy Quest Movie</author>
+    <english>Never give up, never surrender</english>
+  </saying>
+  <saying>
+    <latin>Qui audet adipiscitur</latin>
+    <author></author>
+    <english>Who dares, wins</english>
+  </saying>
+  <saying>
+    <latin>Tempus fugit</latin>
+    <author></author>
+    <english>Time flies</english>
+  </saying>
+  <saying>
+    <latin>Acta non verba</latin>
+    <author></author>
+    <english>Deeds, not words</english>
+  </saying>
+  <saying>
+    <latin>si quid novisti rectius istis, candidus imperti so nil, his utere mecum</latin>
+    <author></author>
+    <english>If you can better these principles, tell me; if not, join me in following them</english>
+  </saying>
+  <saying>
+    <latin>sic itur ad astra</latin>
+    <author></author>
+    <english>Thus you shall go to the stars</english>
+  </saying>
+  <saying>
+    <latin>sic transit gloria mundi</latin>
+    <author></author>
+    <english>Thus passes the glory of the world</english>
+  </saying>
+  <saying>
+    <latin>Sine poena nulla lex</latin>
+    <author></author>
+    <english>Without penalty, there is no law</english>
+  </saying>
+  <saying>
+    <latin>Solus ipse</latin>
+    <author></author>
+    <english>I alone</english>
+  </saying>
+  <saying>
+    <latin>Stamus contra malo</latin>
+    <author></author>
+    <english>We stand against evil</english>
+  </saying>
+  <saying>
+    <latin>strenuis ardus cedunt</latin>
+    <author></author>
+    <english>The heights yield to endeavor</english>
+  </saying>
+  <saying>
+    <latin>Summum bonum</latin>
+    <author></author>
+    <english>The supreme good</english>
+  </saying>
+  <saying>
+    <latin>ignis aurum probat</latin>
+    <author></author>
+    <english>Fire tests gold</english>
+  </saying>
+  <saying>
+    <latin>Infinitus est numerus stultorum</latin>
+    <author></author>
+    <english>Infinite is the number of fools</english>
+  </saying>
+  <saying>
+    <latin>inter arma enim silent leges</latin>
+    <author>Cicero</author>
+    <english>In a time of war, the law falls silent</english>
+  </saying>
+  <saying>
+    <latin>Invictus maneo</latin>
+    <author>Armstrong Clan</author>
+    <english>I remain unvanquished</english>
+  </saying>
+  <saying>
+    <latin>ipsa scientia potestas est</latin>
+    <author>Francis Bacon</author>
+    <english>Knowledge itself is power</english>
+  </saying>
+  <saying>
+    <latin>iustitia omnibus</latin>
+    <author></author>
+    <english>Justice for all</english>
+  </saying>
+  <saying>
+    <latin>Audacter calumnaire, semper aliquid haeret</latin>
+    <author></author>
+    <english>Slander boldly, something always sticks</english>
+  </saying>
+  <saying>
+    <latin>Esse quam videri</latin>
+    <author></author>
+    <english>To be, rather then to seem (to be)</english>
+  </saying>
+  <saying>
+    <latin>Videri Quam Esse</latin>
+    <author>Niccolo Machiavelli</author>
+    <english>To seem rather then to be</english>
+  </saying>
+  <saying>
+    <latin>Audemus</latin>
+    <author></author>
+    <english>We dare</english>
+  </saying>
+  <!--
+  <saying>
+    <latin></latin>
+    <author></author>
+    <english></english>
+  </saying>
+  -->
+</latin-sayings>
