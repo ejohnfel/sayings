@@ -12,8 +12,11 @@
         </head>
         <body>
           <table>
+            <tr>
+              <td class="title">Sayings while Waiting</td>
+            </tr>
             <xsl:for-each select="saying">
-              <tr>
+              <tr class="stripedodd">
                 <td>
                   <xsl:value-of select="."/>
                 </td>

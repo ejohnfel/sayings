@@ -12,18 +12,27 @@
         </head>
         <body>
           <table>
+            <tr width="100%">
+              <td width="100%" class="title" colspan="2">Latin Sayings</td>
+            </tr>
             <xsl:for-each select="saying">
-              <tr>
-                <td>
-                  <xsl:value-of select="latin"/>
-                </td>
-                <td>
-                  <xsl:value-of select="author"/>
-                </td>
-              </tr>
-              <tr>
-                <td colspan="2">
-                  <xsl:value-of select="english"/>
+              <tr class="stripedodd">
+                <td width="100%">
+                  <table width="100%">
+                    <tr width="100%">
+                      <td width="80%">
+                        <xsl:value-of select="latin"/>
+                      </td>
+                      <td class="fields">
+                        <xsl:value-of select="author"/>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td colspan="2">
+                        <xsl:value-of select="english"/>
+                      </td>
+                    </tr>
+                  </table>
                 </td>
               </tr>
             </xsl:for-each>

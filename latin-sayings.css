@@ -7,7 +7,7 @@
 .fields {
     font-weight: bold;
     background-color: lightcyan;
-    text-align: left;
+    text-align: right;
 }
 
 tr:nth-child(even).stripedeven {
