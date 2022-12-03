@@ -19,6 +19,7 @@
               <tr class="stripedodd">
                 <td>
                   <xsl:value-of select="."/>
+	          <xsl:if test="@author and @author != ''"> - <xsl:value-of select="@author" /></xsl:if>
                 </td>
               </tr>
             </xsl:for-each>

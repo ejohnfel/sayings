@@ -45,3 +45,12 @@ latin-sayings.txt: latin-sayings.xml $(latintxttemplate)
 latin-sayings.css:
 
 latin-sayings.xml:
+
+
+actions:
+	@echo -e "install\tProcess and install all files"
+	@echo -e "install-latin-xml\tProcess and install latin sayings xml file"
+	@echo -e "install-latin-txt\tProcess and install latin sayings text file"
+	@echo -e "install-waiting-xml\tProcess and install waiting messages xml file"
+	@echo -e "install-waiting-txt\tProcess and install waiting messages txt file"
+	@echo -e "actions\tThis message"

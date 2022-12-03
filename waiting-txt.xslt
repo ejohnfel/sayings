@@ -3,7 +3,8 @@
   <xsl:output method="text" indent="yes"/>
   <xsl:template match="/sayings">
     <xsl:for-each select="saying">
-      <xsl:value-of select="."></xsl:value-of>
+      <xsl:value-of select="." />
+      <xsl:if test="@author and @author != ''"> - <xsl:value-of select="@author" /></xsl:if>
       <xsl:text>&#xa;&#xd;</xsl:text>
     </xsl:for-each>
   </xsl:template>
